@@ -1,0 +1,6 @@
+{
+  "appId": "com.diycreationengine.app",
+  "appName": "DIY Creation Engine",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

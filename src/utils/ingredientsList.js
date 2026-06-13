@@ -1,0 +1,20 @@
+export const INGREDIENTS = [
+  "Chicken Breast", "Chicken Thighs", "Ground Beef", "Steak", "Pork Chops",
+  "Bacon", "Sausage", "Salmon", "Shrimp", "Tuna (Canned)", "Tofu", "Eggs",
+  "Milk", "Butter", "Cheddar Cheese", "Mozzarella", "Parmesan", "Cream Cheese",
+  "Yogurt", "Sour Cream", "Onion", "Garlic", "Potatoes", "Carrots", "Tomatoes",
+  "Bell Pepper", "Broccoli", "Spinach", "Mushrooms", "Zucchini", "Cucumber",
+  "Lettuce", "Celery", "Avocado", "Lemon", "Lime", "Apple", "Banana", "Berries",
+  "Olive Oil", "Vegetable Oil", "Soy Sauce", "Vinegar", "Balsamic Vinegar",
+  "Mustard", "Ketchup", "Mayonnaise", "Hot Sauce", "Worcestershire Sauce",
+  "Honey", "Maple Syrup", "Sugar", "Brown Sugar", "Salt", "Black Pepper",
+  "Paprika", "Cumin", "Oregano", "Basil", "Thyme", "Rosemary", "Cinnamon",
+  "Nutmeg", "Chili Powder", "Garlic Powder", "Onion Powder", "Flour", "Cornstarch",
+  "Baking Powder", "Baking Soda", "Yeast", "White Rice", "Brown Rice", "Pasta",
+  "Spaghetti", "Macaroni", "Bread", "Tortillas", "Oats", "Quinoa",
+  "Chicken Broth", "Beef Broth", "Vegetable Broth", "Canned Tomatoes", "Tomato Paste",
+  "Black Beans", "Kidney Beans", "Chickpeas", "Lentils", "Peanut Butter",
+  "Almonds", "Walnuts", "Pecans", "Chocolate Chips", "Vanilla Extract",
+  "Breadcrumbs", "Panko", "Coconut Milk", "Curry Powder", "Ginger", "Cilantro",
+  "Jalapeño", "Green Onions", "Cabbage", "Cauliflower", "Sweet Potatoes", "Corn"
+];
